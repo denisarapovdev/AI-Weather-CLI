@@ -1,0 +1,5 @@
+httpx
+openai
+python-dotenv
+black
+isort
