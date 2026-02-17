@@ -17,9 +17,6 @@ OPEN_METEO_WEATHER_URL = "https://api.open-meteo.com/v1/forecast"
 # Tool names
 WEATHER_TOOL_NAME = "get_weather"
 
-# Delay in seconds for emulated streaming
-STREAMING_DELAY = 0.01
-
 # CLI messages
 CLI_WELCOME_MESSAGE = "Weather Assistant - ask about the weather in any city."
 CLI_EXIT_INSTRUCTION = "Type 'quit' to exit."
