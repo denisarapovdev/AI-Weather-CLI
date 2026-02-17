@@ -1,5 +1,5 @@
-httpx
-openai
-python-dotenv
-black
-isort
+httpx==0.28.1
+openai==2.21.0
+python-dotenv==1.2.1
+black==26.1.0
+isort==7.0.0
